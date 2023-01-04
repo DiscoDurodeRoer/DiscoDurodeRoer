@@ -30,6 +30,10 @@ Os dejo mi **[Curriculum Vitae online](https://fernando-urena-gomez.es/#/inicio)
 
 ## <b>Tareas DAM/DAW</b>
 
+Repositorio donde compartimos las tareas de DAM/DAW (1º y 2º). Si quieres compartir alguna tarea para incluirla, puedes enviánosla a administrador@discoduroderoer.es.
+
+Comparte y dale una estrella al repositorio para poder ayudar a más gente.
+
 [![Tareas dam/daw](https://img.shields.io/github/stars/DiscoDurodeRoer/tareas-dam-daw-e-learning?label=tareas%20dam%20daw%20e-learning&style=social)](https://github.com/DiscoDurodeRoer/tareas-dam-daw-e-learning)
 
 ## <b>Soporte</b>
