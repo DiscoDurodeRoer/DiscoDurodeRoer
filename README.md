@@ -34,15 +34,23 @@ Os dejo mi **[Curriculum Vitae online](https://fernando-urena-gomez.es/#/inicio)
 
 Repositorio donde compartimos las tareas de DAM/DAW (1º y 2º). Si quieres compartir alguna tarea para incluirla, puedes enviánosla a administrador@discoduroderoer.es.
 
-Comparte y dale una estrella al repositorio para poder ayudar a más gente.
-
 [![Tareas dam/daw](https://img.shields.io/github/stars/DiscoDurodeRoer/tareas-dam-daw-e-learning?label=tareas%20dam%20daw%20e-learning&style=social)](https://github.com/DiscoDurodeRoer/tareas-dam-daw-e-learning)
+
+## <b>Bibliotecas</b>
+
+Soy un gran fan de las bibliotecas y me gusta reutilizar todo lo que hacemos en el canal.
+
+[![Biblioteca Java](https://img.shields.io/github/stars/DiscoDurodeRoer/Biblioteca-DDR-Java?label=Biblioteca%20java&style=social)](https://github.com/DiscoDurodeRoer/Biblioteca-DDR-Java)
+[![Biblioteca Python](https://img.shields.io/github/stars/DiscoDurodeRoer/Biblioteca-DDR-Python?label=Biblioteca%20python&style=social)](https://github.com/DiscoDurodeRoer/Biblioteca-DDR-Python)
+[![Biblioteca Javascript](https://img.shields.io/github/stars/DiscoDurodeRoer/Biblioteca-DDR-Javascript?label=Biblioteca%20javascript&style=social)](https://github.com/DiscoDurodeRoer/Biblioteca-DDR-Javascript)
+[![Biblioteca Pseudocodigo](https://img.shields.io/github/stars/DiscoDurodeRoer/Biblioteca-DDR-Pseudocodigo?label=Biblioteca%20pseudocodigo&style=social)](https://github.com/DiscoDurodeRoer/Biblioteca-DDR-Pseudocodigo)
+[![Biblioteca PHP](https://img.shields.io/github/stars/DiscoDurodeRoer/Biblioteca-DDR-PHP?label=Biblioteca%20PHP&style=social)](https://github.com/DiscoDurodeRoer/Biblioteca-DDR-PHP)
+[![Biblioteca Lua](https://img.shields.io/github/stars/DiscoDurodeRoer/Biblioteca-DDR-Lua?label=Biblioteca%20Lua&style=social)](https://github.com/DiscoDurodeRoer/Biblioteca-DDR-Lua)
+[![Biblioteca Lua](https://img.shields.io/github/stars/DiscoDurodeRoer/Biblioteca-Visual-Basic?label=Biblioteca%20Visual%20Basic&style=social)](https://github.com/DiscoDurodeRoer/Biblioteca-Visual-Basic)
 
 ## <b>Ejercicios canal</b>
 
 Tenemos muchos ejercicios en el canal repartidos en repositorios.
-
-Comparte y dale una estrella al repositorio que te haya servido para poder ayudar a más gente.
 
 <p align="left">
 
@@ -67,4 +75,6 @@ Comparte y dale una estrella al repositorio que te haya servido para poder ayuda
    
 ## <b>Soporte</b>
 
-Si quieres apoyarme, puedes nominarme como **[Github Star](https://stars.github.com/nominate/?data=30374642,DiscoDurodeRoer,por%20todo%20el%20contenido%20que%20comparte%20sobre%20programacion)**
+- Comparte y dale una estrella al repositorio que te haya servido para poder ayudar a más gente.
+
+- Si quieres apoyarme, puedes nominarme como **[Github Star](https://stars.github.com/nominate/?data=30374642,DiscoDurodeRoer,por%20todo%20el%20contenido%20que%20comparte%20sobre%20programacion)**
