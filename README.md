@@ -1,5 +1,7 @@
 ### ¡Bienvenido al Github de Discoduroderoer!
 
+![https://github.com/DiscoDurodeRoer](https://raw.githubusercontent.com/DiscoDurodeRoer/DiscoDurodeRoer/master/banner-profile.png)
+
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEzsgYrYzOCOcwmjhu_pngw?style=social)](https://youtube.com/DiscoDurodeRoer?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/discoduroderoer_prog?style=social)](https://twitch.com/discoduroderoer_prog)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DiscoDurodeRoer?style=social)](https://twitter.com/DiscoDurodeRoer)
